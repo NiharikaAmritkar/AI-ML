@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiharikaAmritkar
-- 👀 I’m interested in Data Science and AI/ML
-- 🌱 I’m currently learning Algorithms of AI/ML and Data Analytics
+- This repository is contributed to all the AI/ML projects I have done so far.
+- The files include the predictions of various types of data using different types of machine learning algorithms.
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me niu.amritkar@gmail.com
 
